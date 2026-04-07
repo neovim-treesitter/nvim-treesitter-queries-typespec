@@ -1,7 +1,7 @@
 {
+  "location": null,
+  "lang": "typespec",
   "url": "https://github.com/happenslol/tree-sitter-typespec",
   "semver": false,
-  "lang": "typespec",
-  "location": null,
   "parser_version": "395bef1e1eb4dd18365401642beb534e8a244056"
 }
